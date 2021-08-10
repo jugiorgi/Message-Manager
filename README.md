@@ -15,5 +15,5 @@ more people simultaneously.
     <a href="http://git.vibbra.com.br/julia-1626354391/message-manager/-/tree/master/message-manager-frontend">Frontend README</a>
 </p>
 
-[![Vídeo de Apresentação]](https://armazenamento-jugio.s3.sa-east-1.amazonaws.com/Message+Manager.MP4)
+[Clique para ver o vídeo](https://armazenamento-jugio.s3.sa-east-1.amazonaws.com/Message+Manager.MP4)
 
