@@ -42,8 +42,4 @@ yarn Build
 <blockquote>
   To run the local application you need to run the backend
 </blockquote>
-<br>
-<a href="http://git.vibbra.com.br/julia-1626354391/message-manager-backend/-/tree/develop">Backend Repository</a>
-<br>
-
 <footer>Developed by: Julia Giorgi Martin</footer>
