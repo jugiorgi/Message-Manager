@@ -9,11 +9,9 @@ more people simultaneously.
 #### To run the project, you will need:
 
 <p>
-    <a href="http://git.vibbra.com.br/julia-1626354391/message-manager/-/tree/master/message-manager-backend">Backend README</a>
+    <a href="https://github.com/jugiorgi/Message-Manager/blob/main/message-manager-backend/README.md">Backend README</a>
 </p>
 <p>
-    <a href="http://git.vibbra.com.br/julia-1626354391/message-manager/-/tree/master/message-manager-frontend">Frontend README</a>
+    <a href="https://github.com/jugiorgi/Message-Manager/blob/main/message-manager-frontend/README.md">Frontend README</a>
 </p>
-
-[Clique para ver o vídeo](https://armazenamento-jugio.s3.sa-east-1.amazonaws.com/Message+Manager.MP4)
 
